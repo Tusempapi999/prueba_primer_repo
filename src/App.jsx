@@ -25,6 +25,7 @@ function App() {
           ))}
         </ul>
         <p>Hola amigo Abraham, esta es una actualizacion al codigo principal</p>
+        <p>Prueba</p>
       </div>
     </>
   );
