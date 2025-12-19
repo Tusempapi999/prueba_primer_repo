@@ -24,9 +24,13 @@ function App() {
             <li key={user.id}>{user.name}</li>
           ))}
         </ul>
-        <p>Hola amigo Abraham, esta es una actualizacion al codigo principal</p>
-        <p>Prueba2</p>
-        <p>Prueba3</p>
+        <div>
+          <p>
+            Hola amigo Abraham, esta es una actualizacion al codigo principal
+          </p>
+          <p>Prueba2</p>
+          <p>Prueba3</p>
+        </div>
       </div>
     </>
   );
